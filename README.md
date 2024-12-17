@@ -71,8 +71,8 @@ weather-app/
 
 1. **Clone the repository** to your local machine:
    ```bash
-   git clone https://github.com/your-username/weather-app.git
-   cd weather-app
+   git clone https://github.com/your-username/weather-forecast.git
+   cd weather-forecast
    ```
 
 2. **Open the project**:
